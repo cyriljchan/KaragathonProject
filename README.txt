@@ -1,3 +1,6 @@
+This is the ISDA Mobile Application.
+The ISDA features a camera scanning/detection function which can determine the status of a certain species whether it is legal for the market or not (illegal). Aside from the camera scanning, the user can also browse a species' information through the Fish Data page of the application.
+
 -- to run the application -- 
 API:
 1. In the command prompt, change the directory to the api folder
